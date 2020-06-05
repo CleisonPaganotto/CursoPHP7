@@ -1,0 +1,17 @@
+{
+    "name": "cleison/composer",
+    "description": "Aprendendo a criar o arquivo de configuração do composer - Curso hCode PHP7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Cleison Paganotto",
+            "email": "cleisonpaganotto2014@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+        "monolog/monolog":"1.0.*"
+
+    }
+}
